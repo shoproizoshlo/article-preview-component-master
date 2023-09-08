@@ -22,9 +22,9 @@
   </head>
   <body>
     <main>
-      <div class="container">
+      <div class="container d-flex">
         <div class="image-area">
-          <img src="./images/drawers.jpg" alt="nice picture" />
+          <!-- <img src="./images/drawers.jpg" alt="nice picture" /> -->
         </div>
         <div class="text-area">
           <p class="heading">
@@ -36,12 +36,22 @@
             felt slightly bare and uninviting. I’ve got some simple tips to help
             you make any room feel complete.
           </p>
-          <div class="d-flex">
-            <img src="./images/avatar-michelle.jpg" alt="user avatar" />
-            <p class="name">Michelle Appleton</p>
-            <p class="date">28 Jun 2020</p>
-            <img src="./images/icon-share.svg" alt="icon share" />
-            <div class="share-wind">
+          <div class="d-flex align-items-center justify-content-between">
+            <img
+              src="./images/avatar-michelle.jpg"
+              alt="user avatar"
+              class="avatar"
+            />
+            <div class="user-data">
+              <p class="name">Michelle Appleton</p>
+              <p class="date">28 Jun 2020</p>
+            </div>
+            <img
+              src="./images/icon-share.svg"
+              alt="icon share"
+              class="icon-share"
+            />
+            <div class="share-wind hidden">
               <p>Share</p>
               <img src="./images/icon-facebook.svg" alt="icon facebook" />
               <img src="./images/icon-twitter.svg" alt="icon twitter" />
