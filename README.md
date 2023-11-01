@@ -1,6 +1,6 @@
 # Frontend Mentor - Article preview component solution
 
-This is a solution to the [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT). 
 
 ## Table of contents
 
@@ -29,7 +29,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/shoproizoshlo/article-preview-component-master
 - Live Site URL: https://sue-article-preview-component.netlify.app/
 
 ## My process
@@ -48,5 +47,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@shoproizoshlo](https://www.frontendmentor.io/profile/shoproizoshlo)
 - Twitter - [@suereact](https://www.twitter.com/)
